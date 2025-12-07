@@ -1,40 +1,61 @@
-Telemetry & Tracker Blocklist
+🚫 Telemetry & Tracker Blocklist
 
-Keep your network private. Block telemetry, trackers, and analytics. Works with Pi-hole, AdGuard Home, or any DNS blocker.
+Keep your network private, fast, and clean.
 
-Raw list:
+A curated blocklist for Pi-hole, AdGuard Home, or any DNS-based ad/tracker blocker. Blocks telemetry, analytics, and trackers from software, OSs, and websites.
+
+🔗 Raw Blocklist
+
+Use this directly in your DNS blocker:
+
+📄 Telemetry & Tracker Blocklist
+
+⚡ Features
+
+🛡️ Blocks telemetry & tracking domains.
+
+🚀 Speeds up browsing & reduces unwanted requests.
+
+⚙️ Compatible with Pi-hole, AdGuard Home, and other DNS-based blockers.
+
+🔄 Regularly updated to catch new trackers.
+
+🛠️ Installation
+Pi-hole
+
+Go to Group Management → Adlists
+
+Add the URL:
+
 https://raw.githubusercontent.com/debugtree/Telemtry-and-tracker-blocklist/refs/heads/main/telemetry%20and%20tracker%20block%20list.txt
 
-Features
 
-Blocks telemetry & tracking domains
+Update gravity. Done. ✅
 
-Compatible with Pi-hole, AdGuard, etc.
+AdGuard Home
 
-Regularly updated
+Go to Filters → DNS Blocklists
 
-Installation
+Add the URL above.
 
-Pi-hole:
+Update and apply changes. Done. ✅
 
-Group Management → Adlists
+📈 Stats
 
-Add URL above
+Domains blocked: [auto-update from file]
 
-Update gravity
+Compatible with Pi-hole & AdGuard
 
-AdGuard Home:
+Lightweight, no bloat
 
-Filters → DNS Blocklists
+🤝 Contributing
 
-Add URL above
+Found a tracker or telemetry domain that’s missing? Open an Issue or Pull Request. Let’s make the internet cleaner together!
 
-Update & apply
+📜 License
 
-Contribute
+MIT License — free to use, share, and improve.
 
-Found a tracker not on the list? Open an Issue or Pull Request.
+🖤 Made with privacy in mind
 
-License
-
-MIT
+Protect your network. Protect your data. Stop trackers dead in their tracks.
