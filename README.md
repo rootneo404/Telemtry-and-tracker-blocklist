@@ -10,11 +10,6 @@
 
 🔄 Regularly updated to catch new trackers.
 
-🛠️ Installation
-Pi-hole
-
-Go to Group Management → Adlists
-
 Add the URL:
 
 https://raw.githubusercontent.com/debugtree/Telemtry-and-tracker-blocklist/refs/heads/main/telemetry%20and%20tracker%20block%20list.txt
@@ -25,4 +20,4 @@ MIT License — free to use, share, and improve.
 
 🖤 Made with privacy in mind
 
-Protect your network. Protect your data. Stop trackers dead in their tracks.
+Protect your network. Protect your data. 
