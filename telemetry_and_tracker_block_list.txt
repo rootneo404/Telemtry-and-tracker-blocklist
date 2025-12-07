@@ -13,6 +13,7 @@ bn4sch101121704.wns.windows.com
 adserver.virginmedia.com
 2qaayg3yvidcn9imquz625sg-wpengine.netdna-ssl.com
 adserver.sevenload.com
+presence.teams.live.com
 bn4sch101121223.wns.windows.com
 2rdrtx4bt29lo91s31mjhkji-wpengine.netdna-ssl.com
 usage-us-fy2018.myhomescreen.tv
@@ -33,6 +34,7 @@ bn3sch020022361.wns.windows.com
 adservice.google.ie
 a44867.actonservice.com
 adservice.google.com.tr
+umwatson.events.data.microsoft.com
 a44828.actonservice.com
 api.branch.io
 bn4sch101123108.wns.windows.com
@@ -65,6 +67,7 @@ adservice.google.com.ar
 bn3sch020020749.wns.windows.com
 bn3sch020010650.wns.windows.com
 collect-us-fy2020.myhomescreen.tv
+rad.live.com
 adservice.google.de
 a44834.actonservice.com
 adserver.sharewareonline.com
@@ -77,6 +80,7 @@ bn3sch020022328.wns.windows.com
 adserver.twitpic.com
 bn4sch101120913.wns.windows.com
 usage-eu-fy2022.myhomescreen.tv
+umwatsonc.events.data.microsoft.com
 adservice.google.co.jp
 a44785.actonservice.com
 adserver.reservoir-blog.com
@@ -96,7 +100,6 @@ adserver.yahoo.com
 adserverplus.com
 adservice.google.com.ph
 adservice.google.com.pk
-a44686.actonservice.com
 adservice.google.co.th
 a44688.actonservice.com
 adservice.google.co.kr
@@ -105,6 +108,7 @@ adservice.google.com.ec
 a44766.actonservice.com
 adservice.google.nl
 a44876.actonservice.com
+default-internal.rtb-google.us.criteo.com
 a44865.actonservice.com
 adservice.google.com.cl
 adservice.google.com.pe
@@ -136,6 +140,7 @@ df.telemetry.microsoft.com
 oca.telemetry.microsoft.com
 clients1.google.com
 clients2.google.com
+default-internal.rtb-inmobi.us.criteo.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
@@ -145,7 +150,6 @@ www.googletagmanager.com
 pagead2.googlesyndication.com
 ocsp.apple.com
 captive.apple.com
-gdmf.apple.com
 gs.apple.com
 xp.apple.com
 www.apple.com
@@ -159,4 +163,18 @@ connect.facebook.net
 analytics.twitter.com
 sb.scorecardresearch.com
 b.scorecardresearch.com
-
+settings-win.data.microsoft.com
+mask.icloud.com
+mask-h2.icloud.com
+par02p.wns.windows.com
+pre.footprintpredict.com
+preview.msn.com
+gdmf.apple.com
+rad.msn.com
+redir.metaservices.microsoft.com
+reports.wes.df.telemetry.microsoft.com
+a44686.actonservice.com
+asfoc.gbc.criteo.com
+asforo.gbc.criteo.com
+rtb-google.as.criteo.com
+default-internal.rtb-google.eu.criteo.com
