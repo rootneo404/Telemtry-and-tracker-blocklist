@@ -1,6 +1,6 @@
 [![Platform](https://img.shields.io/badge/Platform-Pi--hole%20%7C%20AdGuard-blue?style=flat-square)](https://pi-hole.net/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Display](https://img.shields.io/badge/Display-Plain%20Text-orange?style=flat-square)](https://raw.githubusercontent.com/debugtree/Telemtry-and-tracker-blocklist/refs/heads/main/telemetry%20and%20tracker%20block%20list.txt)
+[![Domains Blocked](https://img.shields.io/badge/Domains-1500-orange?style=flat-square)](#)
 
 **Keep your network private. Block telemetry, trackers, and analytics. Works with Pi-hole, AdGuard Home, or any DNS blocker.**
 
@@ -26,10 +26,10 @@ https://raw.githubusercontent.com/debugtree/Telemtry-and-tracker-blocklist/refs/
 2. Add URL above  
 3. Update & apply  
 
-📜 License
+##📜 License
 
 MIT License 
 
-🖤 Made with privacy in mind
+##🖤 Made with privacy in mind
 
 Protect your network. Protect your data. 
