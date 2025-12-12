@@ -1,5 +1,5 @@
 #Telemetry and tracker blocklist made by debugtree
-#Version 1
+#Version 1.1
 
 
 
@@ -41,6 +41,14 @@ rad.msn.com
 redir.metaservices.microsoft.com
 reports.wes.df.telemetry.microsoft.com
 preview.msn.com
+tele.trafficmanager.net
+telecommand.telemetry.microsoft.com
+telemetry.appex.bing.net
+telemetry.microsoft.com
+telemetry.remoteapp.windowsazure.com
+telemetry.urs.microsoft.com
+wes.df.telemetry.microsoft.com
+
 
 # Windows Push Notification Service
 *.wns.windows.com
@@ -158,3 +166,34 @@ fls-na.amazon.com
 # CLOUDFLARE 
 beacon.cloudflare.com
 cdn-cgi/trace
+
+
+# NVIDIA
+telemetry.nvidia.com
+gfwsl.geforce.com
+events.gfe.nvidia.com
+
+
+# INSTAGRAM
+graph.instagram.com
+
+
+# FIREFOX
+incoming.telemetry.mozilla.org
+telemetry.mozilla.org
+telemetry.mozilla.com
+incoming.telemetry.prod.mozaws.net
+metrics.mozilla.com
+normandy.cdn.mozilla.net
+normandy.services.mozilla.com
+crash-reports.mozilla.com
+crash-stats.mozilla.com
+reports.mozilla.com
+fhr.data.mozilla.com
+data.mozilla.com
+suggest.mozilla.org
+suggestions.services.mozilla.com
+
+
+# AMD
+api.amd.co
