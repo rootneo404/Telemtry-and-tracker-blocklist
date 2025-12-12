@@ -7,7 +7,9 @@
 www.google-analytics.com
 ssl.google-analytics.com
 www.googletagmanager.com
-
+app-measurement.com
+firebase-settings.crashlytics.com
+firebaseinstallations.googleapis.com
 clients1.google.com
 clients2.google.com
 clients3.google.com
@@ -48,6 +50,27 @@ telemetry.microsoft.com
 telemetry.remoteapp.windowsazure.com
 telemetry.urs.microsoft.com
 wes.df.telemetry.microsoft.com
+adx.ads.microsoft.com
+ads.msn.com
+ads1.msn.com
+ads2.msn.com
+ads3.msn.com
+telecommand.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com.nsatc.net
+browser.events.data.msn.com
+edge.microsoft.com
+api.msn.com
+arc.msn.com
+mobile.events.data.microsoft.com
+www.msedge.net
+watson.telemetry.microsoft.com
+wes.df.telemetry.microsoft.com
+oca.telemetry.microsoft.com
+sqm.telemetry.microsoft.com
+fe2.update.microsoft.com
+diagnostics.support.microsoft.com
+statsfe2.update.microsoft.com
+
 
 
 # Windows Push Notification Service
@@ -64,6 +87,12 @@ api-glb.apple.com
 gdmf.apple.com
 mask.icloud.com
 mask-h2.icloud.com
+gsp-ssl.ls.apple.com
+gsa.apple.com
+init-p01md.apple.com
+metrics.apple.com
+metrics.icloud.com
+
 
 
 # ADOBE 
@@ -197,3 +226,12 @@ suggestions.services.mozilla.com
 
 # AMD
 api.amd.co
+
+# ANDROID
+logcat.googleplex.com
+data.mistat.xiaomi.com
+tracking.opencpu.org
+tracking.intl.xiaomi.com
+tss.htc.com
+s-update.samsung.com
+diagnostics.me-cloud.com
