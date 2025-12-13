@@ -171,7 +171,6 @@ usc.adserver.snapads.com
 ase.adserver.snapads.com
 
 
-
 # REDDIT 
 events.reddit.com
 pixel.reddit.com
@@ -196,6 +195,9 @@ device-metrics-us.amazon.com
 device-metrics-eu.amazon.com
 device-metrics-fe.amazon.com
 fls-na.amazon.com
+fls-eu.amazon.com
+unagi-eu.amazon.com
+avpk-a1qm4gk9wf1u77-1.zaz.api.amazonvideo.com
 
 
 # NVIDIA
@@ -238,6 +240,9 @@ samsungacr.com
 internetat.tv
 samsungads.com
 samsungadhub.com
+osb-eusvc-v2.samsungqbe.com
+gpm.samsungqbe.com
+osb-eusvc-v2.samsungqbe.com
 
 # LG 
 lgtvsdp.com
