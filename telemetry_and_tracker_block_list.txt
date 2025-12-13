@@ -243,6 +243,9 @@ samsungadhub.com
 osb-eusvc-v2.samsungqbe.com
 gpm.samsungqbe.com
 osb-eusvc-v2.samsungqbe.com
+empdownprd.samsungcloudsolution.com
+gld.push.samsungosp.com
+
 
 # LG 
 lgtvsdp.com
@@ -326,3 +329,4 @@ analytics.meethue.com
 log.tuya.com
 analytics.withings.com
 log.withings.com
+
