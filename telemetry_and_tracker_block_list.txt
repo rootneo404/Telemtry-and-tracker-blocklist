@@ -1,4 +1,4 @@
-#Telemetry and tracker blocklist made by debugtree
+#Telemetry and tracker blocklist made by rootneo404
 #Version 1.13
 
 
@@ -337,5 +337,6 @@ analytics.meethue.com
 log.tuya.com
 analytics.withings.com
 log.withings.com
+
 
 
