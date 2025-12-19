@@ -1,5 +1,5 @@
 #Telemetry and tracker blocklist made by debugtree
-#Version 1.12
+#Version 1.13
 
 
 
@@ -47,6 +47,8 @@ ads.msn.com
 ads1.msn.com
 ads2.msn.com
 ads3.msn.com
+h1.msn.com
+h2.msn.com
 telecommand.telemetry.microsoft.com
 telecommand.telemetry.microsoft.com.nsatc.net
 browser.events.data.msn.com
@@ -54,34 +56,40 @@ edge.microsoft.com
 api.msn.com
 arc.msn.com
 mobile.events.data.microsoft.com
-www.msedge.net
+msedge.net
 watson.telemetry.microsoft.com
 wes.df.telemetry.microsoft.com
-oca.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
 fe2.update.microsoft.com
 diagnostics.support.microsoft.com
 statsfe2.update.microsoft.com
+test.activity.windows.com
+survey.watson.microsoft.com
+alpha.telemetry.microsoft.com
+api.cortana.ai
 
 
 # APPLE 
-ocsp.apple.com
-captive.apple.com
-gs.apple.com
-xp.apple.com
-api-glb.apple.com
-gdmf.apple.com
-mask.icloud.com
-mask-h2.icloud.com
-gsp-ssl.ls.apple.com
-gsa.apple.com
-init-p01md.apple.com
 metrics.apple.com
 metrics.icloud.com
 stats.gc.apple.com
-iadsdk.apple.com
 analytics.apple.com
+iadsdk.apple.com
 guzzoni.apple.com
+mask.icloud.com
+mask-h2.icloud.com
+
+
+# CISCO
+analytics.cisco.com   
+metrics.cisco.com     
+
+
+# MIST/JUNIPER
+telemetry.mist.com    
+insight.mist.com      
+metrics.mist.com      
+telemetry.juniper.net
 
 
 # QUIZDUELL
@@ -329,4 +337,5 @@ analytics.meethue.com
 log.tuya.com
 analytics.withings.com
 log.withings.com
+
 
