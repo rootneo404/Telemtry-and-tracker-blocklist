@@ -1,5 +1,6 @@
 #Telemetry and tracker blocklist made by rootneo404
-#Version 1.13
+#Version 1.20
+#MERRY XMAS:)
 
 
 
@@ -16,6 +17,17 @@ clients2.google.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
+clients.google.com
+chrome-telemetry.com
+pagead2.googlesyndication.com
+googleads.g.doubleclick.net
+adservice.google.com
+adservice.google.com.hk
+ad.doubleclick.net
+doubleclick.net
+googlesyndication.com
+partnerad.l.doubleclick.net
+securepubads.g.doubleclick.net
 
 
 # MICROSOFT
@@ -67,6 +79,8 @@ test.activity.windows.com
 survey.watson.microsoft.com
 alpha.telemetry.microsoft.com
 api.cortana.ai
+analyticsehnwe.servicebus.windows.net
+analyticspixel.microsoft.com
 
 
 # APPLE 
@@ -83,6 +97,7 @@ mask-h2.icloud.com
 # CISCO
 analytics.cisco.com   
 metrics.cisco.com     
+images.response.cisco.com
 
 
 # MIST/JUNIPER
@@ -90,6 +105,7 @@ telemetry.mist.com
 insight.mist.com      
 metrics.mist.com      
 telemetry.juniper.net
+amer.juniper.net
 
 
 # QUIZDUELL
@@ -103,6 +119,24 @@ applvn.com
 ereg.adobe.com
 ims-na1.adobelogin.com
 adobe-dns.adobe.com
+
+
+# INTEL
+ainu.intel.cn
+ainu.intel.co.jp
+ainu.intel.co.kr
+ainu.intel.com
+ainu.intel.com.au
+ainu.intel.com.br
+ainu.intel.com.tw
+ainu.intel.co.uk
+ainu.intel.de
+ainu.intel.es
+ainu.intel.fr
+ainu.intel.in
+ainu.intel.it
+ainu.intel.la
+ainu.intel.pl
 
 
 # LEANPLUM
@@ -144,6 +178,8 @@ a44863.actonservice.com
 a44865.actonservice.com
 a44867.actonservice.com
 a44876.actonservice.com
+aircuity.actonservice.com
+airefcoinc.actonservice.com
 
 
 # COMSCORE 
@@ -183,6 +219,7 @@ ase.adserver.snapads.com
 events.reddit.com
 pixel.reddit.com
 track.redditinc.com
+alb.reddit.com
 
 
 # CRASHLYTICS
@@ -198,6 +235,36 @@ yastatic.net
 metrika.yandex.ru
 
 
+# XIAOMI
+abtest.mistat.xiaomi.com
+mitv.tracking.intl.miui.com
+tracking.intl.miui.com
+data.mistat.intl.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+api.ad.xiaomi.com
+api.ad.intl.xiaomi.com
+api.admob.xiaomi.com
+cdn.ad.xiaomi.com
+a.stat.xiaomi.com
+globalapi.ad.xiaomi.com
+sdkconfig.ad.xiaomi.com
+ssp.ad.xiaomi.com
+e.ad.xiaomi.com
+new.api.ad.xiaomi.com
+test.ad.xiaomi.com
+tracking.intl.miui.com
+data.mistat.xiaomi.com
+data.mistat.intl.xiaomi.com
+abtest.mistat.xiaomi.com
+abtest.mistat.intl.xiaomi.com
+adv.sec.miui.com
+adv.sec.intl.miui.com
+cc.sys.miui.com
+cc.sys.intl.xiaomi.com
+ccc.sys.miui.com
+ccc.sys.intl.xiaomi.com
+
+
 # AMAZON 
 device-metrics-us.amazon.com
 device-metrics-eu.amazon.com
@@ -206,6 +273,9 @@ fls-na.amazon.com
 fls-eu.amazon.com
 unagi-eu.amazon.com
 avpk-a1qm4gk9wf1u77-1.zaz.api.amazonvideo.com
+metrics.amazon.com
+telemetry.amazon.com
+9w2zed1szg.execute-api.us-east-1.amazonaws.com
 
 
 # NVIDIA
@@ -231,7 +301,16 @@ suggest.mozilla.org
 suggestions.services.mozilla.com
 
 
-#ANDROID
+# CARTOONNETWORK
+analytics.cartoonnetworkasia.com
+analytics.cartoonnetwork.com.au
+analytics.cartoonnetwork.co.uk
+analytics.cartoonnetworkindia.com
+analytics.cartoonnetwork.jp
+analytics.cartoonnetworkmena.com
+
+
+# ANDROID
 logcat.googleplex.com
 data.mistat.xiaomi.com
 tracking.opencpu.org
@@ -245,14 +324,26 @@ diagnostics.me-cloud.com
 samsungcloudsolution.com
 samsungcloudsolution.net
 samsungacr.com
-internetat.tv
 samsungads.com
 samsungadhub.com
-osb-eusvc-v2.samsungqbe.com
-gpm.samsungqbe.com
-osb-eusvc-v2.samsungqbe.com
 empdownprd.samsungcloudsolution.com
 gld.push.samsungosp.com
+analytics-api.samsunghealthcn.com
+analytics.bigdata.samsung.com
+cdn.samsungcloudsolution.com
+configprd.samsungcloudsolution.net
+lcprd1.samsungcloudsolution.net
+oempprd.samsungcloudsolution.com
+sas.samsungcloudsolution.com
+tvpnlinupepgpeu.samsungcloud.tv
+osb-eusvc-v2.samsungqbe.com
+events.samsungads.com
+ads.samsungads.com
+ad.samsungadhub.com
+samsung.net/ads
+rportals.com
+adgear.com
+advertiserportals.com
 
 
 # LG 
@@ -262,6 +353,31 @@ lgappstv.com
 lgtvonline.lge.com
 alphonso.tv
 log.internetat.tv
+ad.lgappstv.com
+ibis.lgappstv.com
+jp.rdx2.lgtvsdp.com
+jp.lgtvsdp.com
+jp.info.lgsmartad.com
+lgad.cjpowercast.com.edgesuite.net
+ngfts.lge.com 
+smartclip.com
+smartclip.net
+smartshare.lgtvsdp.com
+us.ad.lgsmartad.com
+us.ibs.lgappstv.com
+us.info.lgsmartad.com
+us.lgtvsdp.com # #117
+us.rdx2.lgtvsdp.com
+yumenetworks.com
+aic-ngfts.lge.com
+us.cdpbeacon.lgtvcommon.com
+us.cdpsvc.lgtvcommon.com
+us.homeprv.lgtvcommon.com
+us.nudge.lgtvcommon.com
+us.rdl.lgtvcommon.com
+us.recommend.lgtvcommon.com
+us.lgsmartad.com
+us.service.lgtvcommon.com
 
 
 # PANASONIC
@@ -272,6 +388,7 @@ collect-us-fy2014.myhomescreen.tv
 usage-us-fy2018.myhomescreen.tv  
 collect-eu-fy2016.myhomescreen.tv  
 usage-eu-fy2017.myhomescreen.tv  
+campaigns.panasonic.eu
 
 
 # ROKU
@@ -303,8 +420,7 @@ monitoring.datadoghq.com
 telemetry.cloudflareinsights.com 
 log.steampowered.com          
 updates.slack.com             
-stats.spotify.com             
-api.docker.com                
+stats.spotify.com                            
 telemetry.jetbrains.com      
 metrics.notion.so             
 log.vivaldi.net               
@@ -321,6 +437,18 @@ ads.twitter.com
 servicesupport.hicloud.com
 api.amd.co
 beacon.cloudflare.com
+analytics.crazygames.com
+csp-reporting.cloudflare.com
+csp.secureserver.net
+dc.banggood.com
+images.performance.volvotrucks.com
+gtreus.aliexpress.com
+aemetrics.aliexpress.ru
+beacon-api.aliyuncs.com
+accscdn.m.taobao.com
+analytics.archive.org
+images.premier.email.shutterstock.com
+analytics.yahoo.com
 
 
 # SMARTHOME
@@ -331,12 +459,7 @@ telemetry.controlmyspa.com
 analytics.controlmyspa.com
 metrics.controlmyspa.com
 report.tuya.com
-metrics.amazon.com
-telemetry.amazon.com
 analytics.meethue.com
 log.tuya.com
 analytics.withings.com
 log.withings.com
-
-
-
