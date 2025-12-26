@@ -321,8 +321,6 @@ diagnostics.me-cloud.com
 
 
 # SAMSUNG
-samsungcloudsolution.com
-samsungcloudsolution.net
 samsungacr.com
 samsungads.com
 samsungadhub.com
@@ -330,7 +328,6 @@ empdownprd.samsungcloudsolution.com
 gld.push.samsungosp.com
 analytics-api.samsunghealthcn.com
 analytics.bigdata.samsung.com
-cdn.samsungcloudsolution.com
 configprd.samsungcloudsolution.net
 lcprd1.samsungcloudsolution.net
 oempprd.samsungcloudsolution.com
@@ -344,6 +341,11 @@ samsung.net/ads
 rportals.com
 adgear.com
 advertiserportals.com
+tls.samsungqbe.com
+osb-v2.samsungqbe.com
+osb-tnc-v2-appsacc.samsungqbe.com
+osb-auth-eusvc-v2.samsungqbe.com
+scs.samsungqbe.com
 
 
 # LG 
@@ -463,3 +465,4 @@ analytics.meethue.com
 log.tuya.com
 analytics.withings.com
 log.withings.com
+
