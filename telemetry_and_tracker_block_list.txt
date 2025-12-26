@@ -337,7 +337,6 @@ osb-eusvc-v2.samsungqbe.com
 events.samsungads.com
 ads.samsungads.com
 ad.samsungadhub.com
-samsung.net/ads
 rportals.com
 adgear.com
 advertiserportals.com
@@ -346,6 +345,10 @@ osb-v2.samsungqbe.com
 osb-tnc-v2-appsacc.samsungqbe.com
 osb-auth-eusvc-v2.samsungqbe.com
 scs.samsungqbe.com
+log-ingestion.samsungacr.com
+log-ingestion-eu.samsungacr.com
+samsungacr.com
+acr.samsung.com
 
 
 # LG 
@@ -465,4 +468,5 @@ analytics.meethue.com
 log.tuya.com
 analytics.withings.com
 log.withings.com
+
 
