@@ -276,6 +276,26 @@ avpk-a1qm4gk9wf1u77-1.zaz.api.amazonvideo.com
 metrics.amazon.com
 telemetry.amazon.com
 9w2zed1szg.execute-api.us-east-1.amazonaws.com
+ads.amazon.com
+advertising.amazon.com
+adservice.amazon.com
+adservice.amazon.co.uk
+adservice.amazon.de
+adservice.amazon.fr
+adservice.amazon.ca
+adservice.amazon.in
+device-metrics-us.amazon.com
+device-metrics.amazon.com
+dcape-na.amazon.com
+dcape.amazon.com
+metrics.amazon.com
+prod.tahoe.amazon.com
+recommendations.amazon.com
+recommendations.amazon.co.uk
+fls-na.amazon.com
+fls.amazon.com
+fireoscaptiveportal.com
+logs.amazon.com
 
 
 # NVIDIA
@@ -464,6 +484,7 @@ analytics.meethue.com
 log.tuya.com
 analytics.withings.com
 log.withings.com
+
 
 
 
