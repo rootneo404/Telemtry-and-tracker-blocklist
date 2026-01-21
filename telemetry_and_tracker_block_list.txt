@@ -84,14 +84,13 @@ analyticspixel.microsoft.com
 
 
 # APPLE 
-metrics.apple.com
-metrics.icloud.com
-stats.gc.apple.com
-analytics.apple.com
-iadsdk.apple.com
-guzzoni.apple.com
-mask.icloud.com
-mask-h2.icloud.com
+analytics-edge.apple.com
+metrics-edge.apple.com
+securemetrics.apple.com
+feedback.apple.com
+feedbackws.apple.com
+notes-analytics.apple.com
+diagnostics.apple.com
 
 
 # CISCO
