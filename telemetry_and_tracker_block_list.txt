@@ -468,6 +468,10 @@ accscdn.m.taobao.com
 analytics.archive.org
 images.premier.email.shutterstock.com
 analytics.yahoo.com
+static.hotjar.com
+an.yandex.ru
+mc.yandex.ru
+ads.soundcloud.com
 
 
 # SMARTHOME
@@ -482,8 +486,3 @@ analytics.meethue.com
 log.tuya.com
 analytics.withings.com
 log.withings.com
-
-
-
-
-
