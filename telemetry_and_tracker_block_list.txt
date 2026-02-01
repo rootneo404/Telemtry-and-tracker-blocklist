@@ -1,6 +1,5 @@
 #Telemetry and tracker blocklist made by rootneo404
-#Version 1.20
-#MERRY XMAS:)
+#Version 1.21
 
 
 
@@ -483,6 +482,7 @@ analytics.meethue.com
 log.tuya.com
 analytics.withings.com
 log.withings.com
+
 
 
 
